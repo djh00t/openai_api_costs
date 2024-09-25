@@ -52,4 +52,4 @@ While we strive to keep this information as accurate and up-to-date as possible,
 
 ## License
 
-This data is provided for informational purposes only. Please refer to OpenAI's terms of service for any restrictions on the use or distribution of their pricing information. The compilation of this data is made available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This data is provided for informational purposes only. Please refer to OpenAI's terms of service for any restrictions on the use or distribution of their pricing information. The compilation of this data is made available under the [MIT License](LICENSE.md).
